@@ -14,9 +14,9 @@
 
 ## 当前进度
 
-- `01_led`：已完成
-- `02_gpio_key`：已完成
-- 其余课程：课程骨架已规划，后续按同一标准逐课补全
+- `01_led` ~ `19_can_basic`：已完成寄存器版、HAL版和详细 README
+- `20_nvic_priority` ~ `24_low_power_basic`：已完成系统级裸机课程补全
+- `25_freertos_basic` ~ `29_small_system_project`：已完成 FreeRTOS 课程与综合项目补全
 
 ## 阶段 1：基础核心能力
 
